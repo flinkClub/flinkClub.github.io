@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Flink Club
 SEOTitle: FlinkClub博客站
 header-img: img/post-bg-desk.jpg
 email: cssokt195@gmail.com
@@ -98,7 +98,7 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
+        title: "简书",
         href: "http://www.jianshu.com/u/058c740a2dd5"
     },{
         title: "Apple",

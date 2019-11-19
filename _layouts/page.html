@@ -47,7 +47,7 @@ layout: default
                 col-xs-12
                 postlist-container
             ">
-
+    			{{ content }}
     		</div>
     <!-- Sidebar Container -->
             <div class="
@@ -57,7 +57,7 @@ layout: default
                 col-xs-12
                 sidebar-container
             ">
-                <!-- Short About --
+                <!-- Short About -->
                 <section class="visible-md visible-lg">
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">关于我</a></h5>
                     <div class="short-about">
@@ -144,9 +144,9 @@ layout: default
                             {% endif %}
                             
                         </ul>
-                        <!--{% if site.email %}-->
-                            <!--<p>✉️ {{site.email}}</p>-->
-                        <!--{% endif %}-->
+                      <!--  {% if site.email %}
+                            <p>✉️ {{site.email}}</p>
+                        {% endif %}-->
                     </div>
                 </section>
     		</div>

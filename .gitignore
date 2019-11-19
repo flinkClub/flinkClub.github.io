@@ -1,6 +1,12 @@
 
 # Created by https://www.gitignore.io/api/macos
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
